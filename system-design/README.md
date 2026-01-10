@@ -10,5 +10,6 @@ Files:
 - search-recommendations.md
 - observability-reliability.md
 - security-privacy.md
+- authentication-authorization.md
 - multi-tenancy-geo.md
 - data-pipelines.md

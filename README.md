@@ -11,3 +11,6 @@ They are organized by topic folder for quick reference and reuse.
 - interview: behavioral interview notes for senior engineer leadership
 - genai: GenAI application design, development cycle, and glossary
 - devops: SRE and DevOps notes, tools, and operational processes
+- technical-glossary: cross-topic technical terms and concepts
+- oop: object-oriented design patterns and refactoring mindset
+- networking: senior networking notes and troubleshooting guidance
