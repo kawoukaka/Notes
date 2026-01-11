@@ -15,7 +15,7 @@
 - Bulkheads for isolating failure domains.
 - Retry budgets for dependency storms.
 
-## Senior Notes
+## Senior mindset
 - Instrument before you scale.
 - Every critical path needs dashboards and alerts.
 - Keep alert noise low; use multi-signal alerts.

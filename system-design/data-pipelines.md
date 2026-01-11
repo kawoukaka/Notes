@@ -12,7 +12,7 @@
 - ETL into warehouse for BI.
 - ML feature pipelines with offline/online parity.
 
-## Senior Notes
+## Senior mindset
 - Build idempotent reprocessing paths.
 - Use schema registry to avoid silent breakage.
 - Maintain backfill tooling for historical data.

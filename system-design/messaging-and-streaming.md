@@ -18,7 +18,7 @@
 - Fraud detection: stream events into scoring engine.
 - CDC streams from DB to analytics.
 
-## Senior Notes
+## Senior mindset
 - Idempotency is mandatory for at-least-once.
 - Backpressure and queue depth are leading indicators.
 - Use DLQs and reprocess tooling.

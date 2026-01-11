@@ -14,7 +14,7 @@
 - Average: depends on pruning; worst-case O(b^d) with branching factor b and depth d.
 
 ## Real-World Example
-- OR-Tools CP-SAT uses backtracking with constraint propagation. https://github.com/google/or-tools
+- Git uses a form of backtracking when it searches commit history for merges or conflict resolution. https://git-scm.com/docs/git-rev-list
 
 ## Tradeoffs and Failure Modes
 - Exponential blow-up without pruning.
@@ -45,5 +45,22 @@ def permutations(nums):
             used[i] = False
 
     dfs([])
+    return result
+```
+
+```python
+def combinations(nums, k):
+    result = []
+
+    def dfs(start, path):
+        if len(path) == k:
+            result.append(path[:])
+            return
+        for i in range(start, len(nums)):
+            path.append(nums[i])
+            dfs(i + 1, path)
+            path.pop()
+
+    dfs(0, [])
     return result
 ```

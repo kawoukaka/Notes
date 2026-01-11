@@ -11,5 +11,10 @@ Files:
 - observability-reliability.md
 - security-privacy.md
 - authentication-authorization.md
+- api-design.md
+- back-of-the-envelope.md
+- distributed-systems-fundamentals.md
+- storage-internals.md
+- security-engineering.md
 - multi-tenancy-geo.md
 - data-pipelines.md

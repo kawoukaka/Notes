@@ -9,3 +9,5 @@ Files:
 - build-release-process.md
 - deployment-process.md
 - troubleshooting-process.md
+- reliability-engineering.md
+- observability-practices.md

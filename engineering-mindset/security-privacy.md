@@ -17,7 +17,7 @@
 - Signed URLs for temporary access to objects.
 - Audit logging for admin actions.
 
-## Senior Notes
+## Senior mindset
 - Secret rotation must be automatic.
 - Prepare for incident response with clear playbooks.
 - Privacy-by-design: minimize data collection.

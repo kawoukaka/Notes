@@ -18,7 +18,7 @@
 - News feed ranking with freshness and diversity.
 - Personalized recommendations with cold-start handling.
 
-## Senior Notes
+## Senior mindset
 - Maintain separate offline evaluation and online A/B testing.
 - Keep explainability for user trust and debugging.
 - Index rebuilds should be incremental to avoid downtime.

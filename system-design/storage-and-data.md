@@ -28,7 +28,7 @@
 - Event sourcing for state reconstruction.
 - CQRS for read-heavy dashboards.
 
-## Senior Notes
+## Senior mindset
 - Model data lifecycles early (hot, warm, cold tiers).
 - Plan for backfills and schema migrations.
 - Audit fields (created_at, updated_at, version) by default.

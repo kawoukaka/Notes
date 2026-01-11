@@ -32,7 +32,7 @@
 - Abuse prevention with tiered limits (free vs paid).
 - Database protection by limiting expensive queries.
 
-## Senior Notes
+## Senior mindset
 - Keep rate limit state close to edge for low latency.
 - Use consistent hashing for counters to reduce cross-node chatter.
 - Use idempotency keys to avoid repeated heavy operations.

@@ -14,3 +14,5 @@ They are organized by topic folder for quick reference and reuse.
 - technical-glossary: cross-topic technical terms and concepts
 - oop: object-oriented design patterns and refactoring mindset
 - networking: senior networking notes and troubleshooting guidance
+- data-engineering: data consistency, governance, quality, and lakehouse architecture
+- performance-engineering: profiling, benchmarking, and capacity planning

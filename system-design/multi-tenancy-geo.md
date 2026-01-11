@@ -20,7 +20,7 @@
 - Multi-region read replicas for latency.
 - Geo-fenced storage for compliance.
 
-## Senior Notes
+## Senior mindset
 - Decide on conflict resolution early.
 - Build rebalancing tools for tenant migrations.
 - Test failover in each region regularly.
